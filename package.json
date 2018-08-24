@@ -1,7 +1,7 @@
 {
-  "name": "sc4hackathon",
+  "name": "test4hackathon",
   "version": "1.0.0",
-  "description": "Smart Contract for Neo Hackathon",
+  "description": "Test Smart Contract for Neo Hackathon",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
